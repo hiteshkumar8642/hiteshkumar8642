@@ -8,7 +8,7 @@ Currently learning and exploring new things.
 - 🌱 I’m currently doing Master of Computer Application
 - 💬 Ask me about coding.
 - 📫 How to reach me hiteshk8642@gmail.com
-
+[![GitHub Streak](https://streak-stats.demolab.com/?hiteshkumar8642=DenverCoder1)](https://git.io/streak-stats)
 <!---
 hiteshkumar8642/hiteshkumar8642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
