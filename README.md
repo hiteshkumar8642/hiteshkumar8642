@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshkumar8642&" alt="hiteshkumar8642" /></p>
 <p><img align="center" src="https://stats.quine.sh/hiteshkumar8642/languages-over-time?theme=light" alt="hiteshkumar8642" /></p>
-<p><img align="center" src="https://stats.quine.sh/hiteshkumar8642/topics-over-time?theme=light" alt="hiteshkumar8642" /></p>
+
 
